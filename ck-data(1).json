@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "title": "CK Morning Page — Chatham-Kent, Ontario",
+    "date_local": "2025-09-15",
+    "timezone": "America/Toronto",
+    "generated_at_iso": "2025-09-15T11:05:00-04:00",
+    "breaking": {
+      "active": false,
+      "message": "",
+      "severity": "info"
+    }
+  },
+  "sections": [
+    {
+      "key": "weather",
+      "items": [
+        {
+          "headline": "Mainly sunny today; warm mid‑week before a chance of showers Friday",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Sun over Lake Erie shoreline",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Environment Canada forecasts mainly sunny conditions across Chatham‑Kent today with fog patches clearing through the morning. Winds start easterly near 20 km/h and become light this afternoon. The high reaches 26°C with a humidex of 31 and a UV index of 7. Tonight is mainly clear with a low near 12°C.",
+            "The outlook shows sunshine Tuesday through Thursday with highs near 27–28°C and clear nights around 13°C. Friday trends to a mix of sun and cloud with a 30 percent chance of showers and a high near 25–26°C. Weekend temperatures moderate closer to 22°C with more cloud."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "police_daily",
+      "items": [
+        {
+          "headline": "Weekend media brief: mischief charge, threats arrest, impaired charge, theft arrest",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1588361861040-3f7f57a2c492?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Police vehicle lights at night",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Police report several incidents from September 12–14. On Friday afternoon in Chatham, officers respond to damage inside a Pine Street building; a 19‑year‑old from Blenheim is arrested and charged with mischief under $5,000. Later Friday in Chatham, officers investigate a domestic disturbance and arrest a 53‑year‑old from Chatham for uttering threats; police say a historical weapon‑related allegation also results in an assault‑with‑a‑weapon charge.",
+            "On Saturday night, police allege a 39‑year‑old from Chatham fails a roadside test after a Queen Street traffic complaint and is charged with impaired operation (80 plus). On Sunday evening, officers arrest a 35‑year‑old in connection with a prior theft investigation at a St. Clair Street business; police say the person is held for bail. Residents are encouraged to report unsafe driving and suspicious activity."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "police_special",
+      "items": [
+        {
+          "headline": "No new special CKPS bulletins since yesterday; Sept. 10 drug investigation yielded significant seizure",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1600607687920-4ce9ce9a1a5d?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Evidence bags on a table",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Police have not posted a new special release beyond the latest daily brief. The most recent special bulletin on September 10 describes a drug investigation where officers execute a warrant, seize suspected fentanyl and cocaine with an estimated street value exceeding $160,000, and make multiple arrests. Any new special advisories will be summarized here in future updates."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "public_health",
+      "items": [
+        {
+          "headline": "Public Health notes West Nile–positive mosquitoes; no new heat or water advisories today",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Public health clipboard",
+            "caption": "Official logo."
+          },
+          "paragraphs": [
+            "CK Public Health confirms mosquitoes collected locally test positive for West Nile virus in a September 9 release. Officials remind residents to use repellents containing DEET or icaridin, drain standing water, and repair window screens. As of this morning, no new heat alerts, drinking‑water advisories, or overdose alerts are posted on the newsroom channels. Residents should continue to monitor public health updates through the week as conditions change."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "council",
+      "items": [
+        {
+          "headline": "Municipality schedules Sept. 23 Parks & Recreation Master Plan open house; no new Council items posted today",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1491081804824-5c99f9f19a8b?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Council chamber seats",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Municipal newsroom listings show routine updates, with an open house on September 23 to review draft recommendations in the 2025 Parks & Recreation Master Plan. No fresh Council agenda or decision summaries are posted this morning. Residents can review upcoming agendas and meeting materials on the municipal website and eSCRIBE portal and watch for the weekly construction and traffic updates."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "roads",
+      "items": [
+        {
+          "headline": "Lane reductions continue for resurfacing on various CK roads; plan extra time in active zones",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Road work signage and cones",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Municipal 511 lists ongoing pavement resurfacing across multiple locations in Chatham‑Kent, with intermittent lane reductions. No new provincial highway closures specific to CK are listed at publication time on Ontario 511, but motorists should expect alternating traffic and reduced speeds where crews are working. Drivers are encouraged to leave extra time and follow on‑site traffic control."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "transit",
+      "items": [
+        {
+          "headline": "No new Ride CK detours posted this morning; core routes operating on regular schedules",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1513001900722-370f803f498d?q=80&w=1600&auto=format&fit=crop",
+            "alt": "City bus at a stop",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Ride CK’s service update pages show previously announced detours related to downtown Chatham construction. No additional detours or service disruptions are posted as of this morning check. Riders should verify stop status before travel and watch for signage near ongoing road work."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "utilities",
+      "items": [
+        {
+          "headline": "No widespread outages indicated on Entegrus resources at time of check",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Utility lines and transformers",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Entegrus directs customers to the outage map and social feeds for after‑hours updates and asks that interruptions be reported by phone. A separate industry tracker shows no customers out across the Chatham‑Kent service area at the time of publication. Customers should continue to consult Entegrus’ outage tools for localized issues and restoration details."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "community",
+      "items": [
+        {
+          "headline": "Welcome Week continues today with community activities across CK",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Books and a coffee on a table",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Chatham‑Kent Welcome Week runs September 12–21 with a range of programs and gatherings to connect newcomers with services and community networks. Activities continue today at multiple venues, with times varying by event. Organizers encourage residents to review listings before heading out and to confirm any last‑minute changes with hosts."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "items": [
+        {
+          "headline": "Maroons win home opener 5–3; Wild drop weekend games, prepare for Thursday",
+          "updated_at": "2025-09-15T11:05:00-04:00",
+          "tag": "UPDATE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1459946382581-621d87690ca3?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Hockey sticks and puck on ice",
+            "caption": "Team supplied."
+          },
+          "paragraphs": [
+            "GOJHL: The Chatham Maroons open the 2025–26 season with a 5–3 win over the St. Thomas Stars at Memorial Arena on Sunday, September 14. The club next hosts LaSalle on Wednesday, September 17 at 7:00 p.m., according to the league schedule.",
+            "PJHL: The Walpole Island Wild fall 4–1 at Mooretown on September 13 and 9–0 at Blenheim on September 14, per league tracking. The Wild are listed to face the Lakeshore Canadiens on Thursday, September 18. Fans can check team and league pages for updates and game details."
+          ]
+        }
+      ]
+    }
+  ]
+}
