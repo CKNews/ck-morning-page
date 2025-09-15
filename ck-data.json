@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "title": "CK Morning Page — Chatham-Kent, Ontario",
+    "date_local": "2025-09-15",
+    "timezone": "America/Toronto",
+    "generated_at_iso": "2025-09-15T14:35:22+00:00",
+    "breaking": {
+      "active": false,
+      "message": "",
+      "severity": "info"
+    }
+  },
+  "sections": [
+    {
+      "key": "weather",
+      "items": [
+        {
+          "headline": "Status note: awaiting today’s official forecast pull",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Sun over Lake Erie shoreline",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "No fresh Environment Canada update is ingested yet. Check the Chatham–Kent forecast (Rondeau area) and marine note for Lake Erie nearshore. This card updates as soon as the daily JSON is refreshed.",
+            "Outlook placeholder: next 3–5 days summarized here when data is available."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "police_daily",
+      "items": [
+        {
+          "headline": "Status note: no new CKPS daily brief parsed yet",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1588361861040-3f7f57a2c492?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Police lights at night",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "When available, items summarize arrests, warrants and collisions using 'police say/allege/report' phrasing. Names appear only if listed on CKPS Most Wanted. Victims and minors are omitted."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "police_special",
+      "items": [
+        {
+          "headline": "Status note: no new special CKPS releases detected since yesterday",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1600607687920-4ce9ce9a1a5d?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Evidence bags on a table",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Major bulletins such as drug or firearm seizures would be summarized here with time, place and items seized, using 'police report' attribution."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "public_health",
+      "items": [
+        {
+          "headline": "Status note: awaiting CK Public Health advisory check",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Public health clipboard",
+            "caption": "Official logo."
+          },
+          "paragraphs": [
+            "Any new West Nile, heat, water or overdose advisories will appear here. If none are posted, a brief status note will indicate no new alerts."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "council",
+      "items": [
+        {
+          "headline": "Status note: council/municipal agenda highlights pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1491081804824-5c99f9f19a8b?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Council chamber seats",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "When published, this section lists tonight’s agenda highlights, key decisions and construction/traffic reports from the municipal newsroom and eSCRIBE."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "roads",
+      "items": [
+        {
+          "headline": "Status note: Municipal 511 & Ontario 511 checks pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Road work cones",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Active projects and lane closures for CK appear here. If no new listings, this card confirms no additional disruptions posted this morning."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "transit",
+      "items": [
+        {
+          "headline": "Status note: Ride CK detours/disruptions pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1513001900722-370f803f498d?q=80&w=1600&auto=format&fit=crop",
+            "alt": "City bus at a stop",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Detours and stop closures display here when Ride CK posts service alerts. Regular schedules remain unless stated."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "utilities",
+      "items": [
+        {
+          "headline": "Status note: Entegrus outage status pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Utility lines and transformers",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "If a notable outage is active, this card summarizes affected areas and restoration notes. Otherwise it confirms no widespread outages."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "community",
+      "items": [
+        {
+          "headline": "Status note: VisitCK/BIA event round‑up pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Books and a coffee on a table",
+            "caption": "File photo."
+          },
+          "paragraphs": [
+            "Today’s notable events appear here with time and venue. If listings are unchanged, a brief status note will indicate no fresh additions."
+          ]
+        }
+      ]
+    },
+    {
+      "key": "sports",
+      "items": [
+        {
+          "headline": "Status note: Maroons/Thunderhawks schedule/results pending",
+          "updated_at": "2025-09-15T06:00:00-04:00",
+          "tag": "NOTE",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1459946382581-621d87690ca3?q=80&w=1600&auto=format&fit=crop",
+            "alt": "Hockey sticks and puck on ice",
+            "caption": "Team supplied."
+          },
+          "paragraphs": [
+            "Once league pages update, this card carries next game, last result and standings snippet for the Chatham Maroons (GOJHL) and the Wallaceburg/Walpole Island PJHL club."
+          ]
+        }
+      ]
+    }
+  ]
+}
